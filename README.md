@@ -3,7 +3,7 @@ A passionate Software Developer from India Rajasthan Jaipur
 
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 I’m learning **Data Structures and Algorithms in C++**
-- 💬 Ask me about **React, Tailwind CSS, and DSA**
+- 💬 Ask me about **React, Tailwind CSS, and DSA (CPP / JAVA / C)**
 - 🧠 Currently focused on **100 Days of Code - LeetCode DSA**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raman-verma-5676ba2a8)
 - 📁 Check out my projects on [GitHub](https://github.com/iamramanvermaa)
