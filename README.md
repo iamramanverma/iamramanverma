@@ -25,7 +25,7 @@ A passionate Software Developer from India Rajasthan Jaipur
 
 
 📈 LeetCode Progress
-📅 100 Days of LeetCode DSA Journey
+📅 200 Days of LeetCode DSA Journey
 🔓 Problems Solved: X+ (update this regularly)
 📌 Profile: iamramanvermaa on LeetCode
 📘 Daily solutions uploaded on: LeetCodeDSA GitHub Repo
